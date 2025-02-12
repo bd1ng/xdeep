@@ -1,2 +1,2 @@
 # xdeep
-Explainable deep learning model. 
+Explainable deep learning method. 
